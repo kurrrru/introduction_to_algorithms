@@ -1,0 +1,1 @@
+This is my record of reading [Introduction to Algorithms, third edition](https://mitpress.mit.edu/9780262533058/introduction-to-algorithms/).
